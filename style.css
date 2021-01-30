@@ -38,8 +38,22 @@ button {
     background: none;
     text-transform: uppercase;
     height: 100%;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1px;
     color: rgb(233, 119, 119);
     cursor: pointer;
+}
+
+.mainBox {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 30%;
+    background: #fff;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    border-radius: 20px;
+    float: left;
 }
